@@ -1,0 +1,22 @@
+{
+  "name": "web_optimization",
+  "version": "1.0.0",
+  "description": "Udacity Project 5 - Web Optimization & Critical Rendering Path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbradley428/web_optimization.git"
+  },
+  "author": "Jamie Bradley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbradley428/web_optimization/issues"
+  },
+  "homepage": "https://github.com/jbradley428/web_optimization#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
